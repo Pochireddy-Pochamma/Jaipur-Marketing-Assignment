@@ -1,0 +1,46 @@
+.app-container {
+  background-color: #0053b5;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.form-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.name-inp {
+  background-color: #ffffff;
+  color: #3b4856;
+  border-width: 0px;
+  border-radius: 5px;
+  height: 50px;
+  font-weight: 600;
+  margin: 10px;
+  padding-left: 20px;
+  width: 250px;
+}
+.button {
+  background-color: #39837b;
+  color: #ffffff;
+  font-family: "Roboto";
+  height: 30px;
+  width: 80px;
+  border-width: 0px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.error-message {
+  align-self: start;
+  font-size: 12px;
+  margin-top: 3px;
+  margin-bottom: 0px;
+  font-family: "Roboto";
+  font-size: 12px;
+  line-height: 16px;
+  color: #ff0b37;
+}

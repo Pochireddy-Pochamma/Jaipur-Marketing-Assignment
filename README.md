@@ -1,0 +1,1 @@
+need to create the UI web page as per the reference provided, use any tech stack that you are aware of and complete the UI . Color codes and fonts are attached as well which are to be developed and incorporated in the assignment.
